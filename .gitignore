@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase configuration (contains sensitive API keys)
+lib/firebase_options.dart
+google-services.json
+GoogleService-Info.plist
+firebase_app_id_file.json
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+**/ios/firebase_app_id_file.json
