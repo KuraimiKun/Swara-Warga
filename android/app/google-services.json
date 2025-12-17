@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534037293402",
+    "project_id": "ytcom-6d117",
+    "storage_bucket": "ytcom-6d117.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534037293402:android:37ab3e733a657af87e2b63",
+        "android_client_info": {
+          "package_name": "com.desa.swarawarga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-jNIVPx_ecTf7ljN5AmPCo1HyrEWqpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
